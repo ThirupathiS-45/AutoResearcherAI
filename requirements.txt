@@ -1,0 +1,8 @@
+arxiv
+PyMuPDF
+google-generativeai
+streamlit
+PyGithub
+python-dotenv
+apscheduler
+streamlit
